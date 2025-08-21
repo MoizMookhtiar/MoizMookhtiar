@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>## 👋 Hi, I’m Moiz Mookhtiar<br><br>🚀 Tech enthusiast | Aspiring AI Innovator | Future Tech CEO<br><br>I’m passionate about building scalable, impactful technology that integrates seamlessly into daily life. My interests lie at the intersection of **Artificial Intelligence, Blockchain, and Scalable Systems**, with a vision to create solutions that can grow into global businesses.<br><br>### 🔧 Technologies & Areas I Explore<br><br>* **AI & ML**: Neural networks, generative AI, multimodal systems<br>* **Blockchain**: Decentralized storage, smart contracts, Web3 apps<br>* **Full-Stack Development**: Python, Node.js, React, APIs<br>* **Cloud & Data**: Databases, distributed systems, optimization<br><br>### 🌍 My Goals<br><br>* Build projects that solve **real-world problems** and can **scale globally**<br>* Learn by doing – every project I push here is part of my **tech journey**<br>* Collaborate with other innovators, researchers, and creators<br><br>
+<br><br> 👋 Hi, I’m Moiz Mookhtiar<br><br>🚀 Tech enthusiast | Aspiring AI Innovator <br><br>I’m passionate about building scalable, impactful technology that integrates seamlessly into daily life. My interests lie at the intersection of **Artificial Intelligence, Blockchain, and Scalable Systems**, with a vision to create solutions that can grow into global businesses.<br><br> 🔧 Technologies & Areas I Explore<br><br>* **AI & ML**: Neural networks, generative AI, multimodal systems<br>* **Blockchain**: Decentralized storage, smart contracts, Web3 apps<br>* **Full-Stack Development**: Python, Node.js, React, APIs<br>* **Cloud & Data**: Databases, distributed systems, optimization<br><br>### 🌍 My Goals<br><br>* Build projects that solve **real-world problems** and can **scale globally**<br>* Learn by doing – every project I push here is part of my **tech journey**<br>* Collaborate with other innovators, researchers, and creators<br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
